@@ -1,0 +1,11 @@
+"filename", "language", "TOML", "Rust", "Markdown", "comment", "blank", "total"
+"c:\Users\lina\Documents\bevy\markevy\.cargo\config_fast_builds.toml", "TOML", 16, 0, 0, 122, 10, 148
+"c:\Users\lina\Documents\bevy\markevy\Cargo.lock", "TOML", 5616, 0, 0, 2, 567, 6185
+"c:\Users\lina\Documents\bevy\markevy\Cargo.toml", "TOML", 30, 0, 0, 13, 7, 50
+"c:\Users\lina\Documents\bevy\markevy\readme.md", "Markdown", 0, 0, 8, 0, 5, 13
+"c:\Users\lina\Documents\bevy\markevy\src\components.rs", "Rust", 0, 18, 0, 0, 3, 21
+"c:\Users\lina\Documents\bevy\markevy\src\main.rs", "Rust", 0, 18, 0, 0, 6, 24
+"c:\Users\lina\Documents\bevy\markevy\src\resources.rs", "Rust", 0, 44, 0, 8, 11, 63
+"c:\Users\lina\Documents\bevy\markevy\src\systems.rs", "Rust", 0, 377, 0, 12, 55, 444
+"c:\Users\lina\Documents\bevy\markevy\src\trading_plugin.rs", "Rust", 0, 18, 0, 0, 4, 22
+"Total", "-", 5662, 475, 8, 157, 668, 6970

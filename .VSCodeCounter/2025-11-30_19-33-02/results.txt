@@ -1,0 +1,38 @@
+Date : 2025-11-30 19:33:02
+Directory : c:\Users\lina\Documents\bevy\markevy
+Total : 9 files,  6145 codes, 157 comments, 668 blanks, all 6970 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| TOML     |          3 |      5,662 |        137 |        584 |      6,383 |
+| Rust     |          5 |        475 |         20 |         79 |        574 |
+| Markdown |          1 |          8 |          0 |          5 |         13 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                   |          9 |      6,145 |        157 |        668 |      6,970 |
+| . (Files)                                                           |          3 |      5,654 |         15 |        579 |      6,248 |
+| .cargo                                                              |          1 |         16 |        122 |         10 |        148 |
+| src                                                                 |          5 |        475 |         20 |         79 |        574 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                            | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\lina\Documents\bevy\markevy\.cargo\config_fast_builds.toml | TOML     |         16 |        122 |         10 |        148 |
+| c:\Users\lina\Documents\bevy\markevy\Cargo.lock                     | TOML     |      5,616 |          2 |        567 |      6,185 |
+| c:\Users\lina\Documents\bevy\markevy\Cargo.toml                     | TOML     |         30 |         13 |          7 |         50 |
+| c:\Users\lina\Documents\bevy\markevy\readme.md                      | Markdown |          8 |          0 |          5 |         13 |
+| c:\Users\lina\Documents\bevy\markevy\src\components.rs              | Rust     |         18 |          0 |          3 |         21 |
+| c:\Users\lina\Documents\bevy\markevy\src\main.rs                    | Rust     |         18 |          0 |          6 |         24 |
+| c:\Users\lina\Documents\bevy\markevy\src\resources.rs               | Rust     |         44 |          8 |         11 |         63 |
+| c:\Users\lina\Documents\bevy\markevy\src\systems.rs                 | Rust     |        377 |         12 |         55 |        444 |
+| c:\Users\lina\Documents\bevy\markevy\src\trading_plugin.rs          | Rust     |         18 |          0 |          4 |         22 |
+| Total                                                               |          |      6,145 |        157 |        668 |      6,970 |
++---------------------------------------------------------------------+----------+------------+------------+------------+------------+
